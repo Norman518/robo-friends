@@ -2,7 +2,7 @@
   "name": "robo-friends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vincentteas.com/",
+  "homepage": "https://Norman518.github.io/robo-friends-react",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
