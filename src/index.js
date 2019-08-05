@@ -8,6 +8,7 @@ import { createStore, applyMiddleware, combineReducers } from "redux";
 import { searchRobots, requestRobots } from "./reducers";
 import { createLogger } from "redux-logger";
 import thunkMiddleware from "redux-thunk";
+import serviceWorker from './serviceWorker';
 const logger = createLogger();
 const rootReducer = combineReducers({ searchRobots, requestRobots });
 const store = createStore(
@@ -20,3 +21,4 @@ ReactDOM.render(
   </Provider>,
   document.getElementById("root")
 );
+serviceWorker();
