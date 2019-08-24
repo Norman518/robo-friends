@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/robo-friends-react/static/css/main.35d04858.chunk.css",
-    "main.js": "/robo-friends-react/static/js/main.e93a26fb.chunk.js",
-    "main.js.map": "/robo-friends-react/static/js/main.e93a26fb.chunk.js.map",
-    "runtime~main.js": "/robo-friends-react/static/js/runtime~main.fb1d5cdb.js",
-    "runtime~main.js.map": "/robo-friends-react/static/js/runtime~main.fb1d5cdb.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/robo-friends-react/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.62120fb1.chunk.js": "/robo-friends-react/static/js/2.62120fb1.chunk.js",
-    "static/js/2.62120fb1.chunk.js.map": "/robo-friends-react/static/js/2.62120fb1.chunk.js.map",
-    "index.html": "/robo-friends-react/index.html",
-    "precache-manifest.6df1ba6d43174e04b67003498f5111ee.js": "/robo-friends-react/precache-manifest.6df1ba6d43174e04b67003498f5111ee.js",
-    "service-worker.js": "/robo-friends-react/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/robo-friends-react/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.35d04858.chunk.css.map": "/robo-friends-react/static/css/main.35d04858.chunk.css.map",
-    "static/media/App.css": "/robo-friends-react/static/media/SEGA.82e09f78.TTF"
+    "main.css": "/robo-sort-react/static/css/main.290d15ed.chunk.css",
+    "main.js": "/robo-sort-react/static/js/main.d614bd02.chunk.js",
+    "main.js.map": "/robo-sort-react/static/js/main.d614bd02.chunk.js.map",
+    "runtime~main.js": "/robo-sort-react/static/js/runtime~main.bcd7b523.js",
+    "runtime~main.js.map": "/robo-sort-react/static/js/runtime~main.bcd7b523.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robo-sort-react/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.62120fb1.chunk.js": "/robo-sort-react/static/js/2.62120fb1.chunk.js",
+    "static/js/2.62120fb1.chunk.js.map": "/robo-sort-react/static/js/2.62120fb1.chunk.js.map",
+    "index.html": "/robo-sort-react/index.html",
+    "precache-manifest.22748cd025f7f38ee3947187b1f212ae.js": "/robo-sort-react/precache-manifest.22748cd025f7f38ee3947187b1f212ae.js",
+    "service-worker.js": "/robo-sort-react/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robo-sort-react/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.290d15ed.chunk.css.map": "/robo-sort-react/static/css/main.290d15ed.chunk.css.map",
+    "static/media/App.css": "/robo-sort-react/static/media/SEGA.82e09f78.TTF"
   }
 }
