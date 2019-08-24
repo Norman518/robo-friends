@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0ad51198700f3c275b58f27f857fd67",
+    "revision": "b160bbeb2b59415b7811324ab2e43c24",
     "url": "/robo-sort-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robo-sort-react/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "cf4f606eb3207a7bca5b",
+    "revision": "2ff70bfdcd3d021bff66",
     "url": "/robo-sort-react/static/css/main.290d15ed.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robo-sort-react/static/js/2.62120fb1.chunk.js"
   },
   {
-    "revision": "cf4f606eb3207a7bca5b",
-    "url": "/robo-sort-react/static/js/main.d614bd02.chunk.js"
+    "revision": "2ff70bfdcd3d021bff66",
+    "url": "/robo-sort-react/static/js/main.bbea82f3.chunk.js"
   },
   {
     "revision": "e227cee76ad30dee80dc",

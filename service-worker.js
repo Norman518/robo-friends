@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/robo-sort-react/precache-manifest.22748cd025f7f38ee3947187b1f212ae.js"
+  "/robo-sort-react/precache-manifest.49582356aa209ee6998aca4d6e532a54.js"
 );
 
 self.addEventListener('message', (event) => {
